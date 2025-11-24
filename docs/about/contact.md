@@ -1,7 +1,7 @@
 (about:contact)=
 # Contact
 
-We can be contacted using SMU's Help Desk. 
+We can be contacted using SMU's IT Help Desk. 
 
 Tickets can be directly created using the [STABLE ticketing system](https://www.smu.edu/OIT/services/STABLE).
 
